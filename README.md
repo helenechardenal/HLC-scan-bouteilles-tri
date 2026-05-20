@@ -1,2 +1,4 @@
-# HLC-scan-bouteilles-tri
-connaitre la destination de tri (cluster - à jeter - à tester) à partir du scan de l'EAN d'une bouteille
+# HLC — Scan bouteilles
+
+Cliquez ici pour ouvrir l'application :
+[Ouvrir l'app](https://helenechardenal.github.io/HLC-scan-bouteilles-tri/hlc_scan_bouteilles.html)
